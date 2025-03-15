@@ -1,5 +1,7 @@
 # Instructions
 
+## Local dev
+
 ### Setup node js
 
 https://nodejs.org/en/download
@@ -34,3 +36,14 @@ Navigate to http://localhost:5173/
 
 > For more advanced usage, this is a standard Vite tempate for React and Typescript. We use this because CRA became CRACRA a few years ago, and is slow as hell.
 > https://vite.dev/guide/
+
+## Deploy to github pages
+
+run :
+
+```
+npm run deploy
+```
+
+Application is available here :
+https://lamaland.github.io/jarvi_test/
