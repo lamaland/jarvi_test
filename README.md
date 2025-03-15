@@ -1,4 +1,8 @@
-# Instructions
+# Jarvi Test
+
+![image](./docs/jarvi_test_screenshot.png)
+
+Application lives here : https://lamaland.github.io/jarvi_test/
 
 ## Local dev
 
@@ -6,7 +10,7 @@
 
 https://nodejs.org/en/download
 
-### Install pnpm ()
+### Install pnpm
 
 The best package manager so far for npm.
 
@@ -44,6 +48,3 @@ run :
 ```
 npm run deploy
 ```
-
-Application is available here :
-https://lamaland.github.io/jarvi_test/
